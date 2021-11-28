@@ -1,0 +1,7 @@
+{
+    "name": "jp.takahiroyasui.test_package_01",
+    "version": "0.1.0",
+    "displayName": "TestPackage01",
+    "description": "This is a test package",
+    "unity": "2019.4"
+  }
